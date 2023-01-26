@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Basic Info About Me
-***
-Originally from the suburbs of Philadelphia, I'm currently a senior studying **Business** & **Computer Science** at NYU!
+Originally from the suburbs of Philadelphia, I'm currently a senior studying **Business** & **Computer Science** at NYU! After graduation, I'll be working in investment banking at Evercore in NYC.
 
 A fun fact (although slightly embarrassing) is that I once fell asleep while running on a treadmill...  
 <br>
