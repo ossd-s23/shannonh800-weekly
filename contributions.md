@@ -24,4 +24,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 6   | https://github.com/joannakl/ossd/issues/43    | course website    |   I reported a broken link.    |
 | Feb 16  | https://github.com/joannakl/ossd/issues/48    | course website    |   I reported a typo in slides. |
-|     |     |     |      |
+| Feb 25  | https://github.com/joannakl/ossd/pull/56      | course website    |   I fixed two typos.           |
