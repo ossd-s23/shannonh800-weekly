@@ -26,4 +26,6 @@ Replace the first row with your own contribution.
 | Feb 16  | https://github.com/joannakl/ossd/issues/48    | course website    |   I reported a typo in slides. |
 | Feb 25  | https://github.com/joannakl/ossd/pull/56      | course website    |   I fixed two typos.           |
 | March 4 | https://www.openstreetmap.org/changeset/133312919 | OpenStreetMap |   I added a point for the Equinox location near where I live in NYC, and my home in PA.           |
+| March 19   | https://github.com/joannakl/ossd/issues/65 | course website    |   I made a suggestion to include the course wiki as a tab in the nav bar.    |
+| March 19   | https://github.com/joannakl/ossd/issues/66 | course website    |   I reported a broken link.    |
 
