@@ -28,4 +28,5 @@ Replace the first row with your own contribution.
 | March 4 | https://www.openstreetmap.org/changeset/133312919 | OpenStreetMap |   I added a point for the Equinox location near where I live in NYC, and my home in PA to OpenStreetMaps.           |
 | March 19   | https://github.com/joannakl/ossd/issues/65 | course website    |   I made a suggestion to include the course wiki as a tab in the nav bar.    |
 | March 19   | https://github.com/joannakl/ossd/issues/66 | course website    |   I reported a broken link.    |
-| March 28   | https://www.openstreetmap.org/changeset/134231674 | course website    |   I added the on-campus Starbucks location to OpenStreetMaps.    |
+| March 28   | https://www.openstreetmap.org/changeset/134231674 | OpenStreetMap    |   I added the on-campus Starbucks location to OpenStreetMaps.    |
+| April 2   | https://en.wikipedia.org/w/index.php?title=Bedford_School&oldid=1147883973 | Wikipedia    |   I fixed a grammar issue, as well as a small punctuation update.    |
