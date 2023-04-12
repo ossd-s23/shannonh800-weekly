@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 | March 19   | https://github.com/joannakl/ossd/issues/66 | course website    |   I reported a broken link.    |
 | March 28   | https://www.openstreetmap.org/changeset/134231674 | OpenStreetMap    |   I added the on-campus Starbucks location to OpenStreetMaps.    |
 | April 2   | https://en.wikipedia.org/w/index.php?title=Bedford_School&oldid=1147883973 | Wikipedia    |   I fixed a grammar issue, as well as a small punctuation update.    |
+| April 11   | https://github.com/joannakl/ossd/issues/71 | course website    |   I reported a typo.    |
